@@ -6,10 +6,6 @@
 @@||cdninstagram.com^$important
 @@||instagram.com^$important
 @@||instagram.c10r.facebook.com^$important
-# F1 TV
-@@||f1-prod-production.apigee.net^$important
-@@||f1-prod-production.dn.apigee.net^$important
-@@||formula1.com^$important
 # Joyn TV Stream
 @@||yospace.com^$important
 @@||heartbeats.prd.data.s.joyn.de^$important
@@ -69,17 +65,6 @@
 # Cloudflare
 @@||cdn.cloudflare.net^$important
 @@||cdnjs.cloudflare.com^$important
-# Dropbox
-@@||dl.dropbox.com^$important
-@@||dl.dropboxusercontent.com^$important
-@@||ns1.dropbox.com^$important
-@@||ns2.dropbox.com^$important
-# No-IP.com
-@@||no-ip.com^$important
-# Twitter
-@@||twimg.com^$important
-@@||twitter.com^$important
-@@||t.co^$important
 # Optimizely
 @@||cdn.optimizely.com^$important
 @@||cdn2.optimizely.com^$important
