@@ -1,4 +1,4 @@
-# My Adguard Home whitelist
+# Adguard Home whitelist
 #Adguard DNS
 @@||dns.adguard.com^$important
 @@||dns-family.adguard.com^$important
