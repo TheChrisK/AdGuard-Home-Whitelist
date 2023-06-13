@@ -285,3 +285,5 @@
 # Tidal
 @@||sp-ad-fa.audio.tidal.com^$important
 @@||vb-ad-fa.video.tidal.com^$important
+# 4Chan
+@@||4chan.org^$important
