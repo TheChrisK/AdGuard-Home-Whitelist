@@ -287,3 +287,12 @@
 @@||vb-ad-fa.video.tidal.com^$important
 # 4Chan
 @@||4chan.org^$important
+# Mine
+@@||thepiratebay.org^$important
+@@||plex.direct^$important
+@@||www.torlock2.com^$client='10.252.55.12'
+@@||glotorrents.pw^$client='Deluge'
+@@||scopely.io^$important
+@@||mbww.com^$important
+@@||www.torlock2.com^$important
+@@||www.thelindalindas.com^$important
