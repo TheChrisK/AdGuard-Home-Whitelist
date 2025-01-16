@@ -1,3 +1,7 @@
 ||truthsocial.com^$important
 ||washingtonpost.com^$important
 ||latimes.com^$important
+||x.com^$important
+||onlyfans.com^$important
+||tinder.com^$important
+||tiktok.com^$important
