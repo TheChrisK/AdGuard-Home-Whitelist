@@ -5,3 +5,6 @@
 ||onlyfans.com^$important
 ||tinder.com^$important
 ||tiktok.com^$important
+||t.co^$important
+||twimg.com^$important
+||twitter.com^$important
