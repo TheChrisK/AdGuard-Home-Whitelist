@@ -10,3 +10,4 @@ twimg.com
 twitter.com
 sluk.samsungcloudprint.com
 cdp.customer.io
+customer.io
